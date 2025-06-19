@@ -3612,7 +3612,7 @@ img.u-pull-left {
 .folio-list__item-link {
     display             : block;
     width               : 100%;
-    padding-left        : calc(5.5 * var(--space));
+    padding-left        : calc(.5 * var(--space));
     color               : white;
     transition-duration : .5s;
     position            : relative;
@@ -3765,7 +3765,7 @@ img.u-pull-left {
  * ## modal popup
  * ------------------------------------------------------------------- */
 .modal-popup {
-    max-width        : 680px;
+    max-width        : 800px;
     background-color : white;
     font-size        : calc(var(--text-size) * 0.9447);
     line-height      : var(--vspace-0_875);
